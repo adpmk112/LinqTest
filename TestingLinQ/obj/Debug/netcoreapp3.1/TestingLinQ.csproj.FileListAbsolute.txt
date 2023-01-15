@@ -1,0 +1,14 @@
+C:\Users\DELL\source\repos\TestingLinQ\TestingLinQ\bin\Debug\netcoreapp3.1\TestingLinQ.exe
+C:\Users\DELL\source\repos\TestingLinQ\TestingLinQ\bin\Debug\netcoreapp3.1\TestingLinQ.deps.json
+C:\Users\DELL\source\repos\TestingLinQ\TestingLinQ\bin\Debug\netcoreapp3.1\TestingLinQ.runtimeconfig.json
+C:\Users\DELL\source\repos\TestingLinQ\TestingLinQ\bin\Debug\netcoreapp3.1\TestingLinQ.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\TestingLinQ\TestingLinQ\bin\Debug\netcoreapp3.1\TestingLinQ.dll
+C:\Users\DELL\source\repos\TestingLinQ\TestingLinQ\bin\Debug\netcoreapp3.1\TestingLinQ.pdb
+C:\Users\DELL\source\repos\TestingLinQ\TestingLinQ\obj\Debug\netcoreapp3.1\TestingLinQ.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\TestingLinQ\TestingLinQ\obj\Debug\netcoreapp3.1\TestingLinQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\TestingLinQ\TestingLinQ\obj\Debug\netcoreapp3.1\TestingLinQ.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\TestingLinQ\TestingLinQ\obj\Debug\netcoreapp3.1\TestingLinQ.AssemblyInfo.cs
+C:\Users\DELL\source\repos\TestingLinQ\TestingLinQ\obj\Debug\netcoreapp3.1\TestingLinQ.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\TestingLinQ\TestingLinQ\obj\Debug\netcoreapp3.1\TestingLinQ.dll
+C:\Users\DELL\source\repos\TestingLinQ\TestingLinQ\obj\Debug\netcoreapp3.1\TestingLinQ.pdb
+C:\Users\DELL\source\repos\TestingLinQ\TestingLinQ\obj\Debug\netcoreapp3.1\TestingLinQ.genruntimeconfig.cache
